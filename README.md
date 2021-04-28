@@ -1,6 +1,6 @@
 # whoami
 
-*hostinfodev*
+Aero aka @hostinfodev.
 
 [![Aero's GitHub stats](https://github-readme-stats.vercel.app/api?username=A3r0Labs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
